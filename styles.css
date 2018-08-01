@@ -1,0 +1,15 @@
+p {
+  color: green;
+}
+
+a:hover {
+  color: red;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+ul li img {
+  display: inline-block;
+}
